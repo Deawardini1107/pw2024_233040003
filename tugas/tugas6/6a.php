@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <a href="?angka=10">10</a>
+    <a href= "?angka=10">10</a>
     <br>
     <?php
     if(isset($_GET['angka'])){
