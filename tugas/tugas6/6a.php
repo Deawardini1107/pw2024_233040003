@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Latihan 6a</title>
+    <title>tugas 6a</title>
 
     <style>
         .box2,
@@ -25,6 +25,8 @@
     </style>
 </head>
 <body>
+    <a href="?angka=10">10</a>
+    <br>
     <?php
     if(isset($_GET['angka'])){
         $angka = $_GET['angka'];
